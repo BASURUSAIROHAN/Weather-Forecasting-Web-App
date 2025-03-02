@@ -7,13 +7,13 @@ This Weather App provides real-time weather information and forecasts for any ci
 ## Screenshots
 
 ### Desktop View
-![Desktop View](screenshots/desktop-view.png)
+![Desktop View](screenshorts/desktop-view.png)
 
 ### Tablet View
-![Tablet View](screenshots/tablet-view.png)
+![Tablet View](screenshorts/tablet-view.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View](screenshorts/mobile-view.png)
 
 ## Setup and Run Locally
 
